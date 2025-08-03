@@ -61,9 +61,11 @@ Saved as model.pkl for reuse in the app
 ✅ Include SHAP values for explainability
 
 ⏳ Add database integration for storing predictions
-
 ⏳ Add user login system
-
 ⏳ Deploy on Render or Heroku
 
+👨‍💻 Author
+Krish Shah
+https://www.linkedin.com/in/krish-shah-b98551311/
+https://github.com/KrishcShah1507
 
